@@ -1,0 +1,21 @@
+[
+    {
+      "id": 1,
+      "name": "Plain White T-Shirt",
+      "price": "$10",
+      "image": "https://cdn.pixabay.com/photo/2016/10/21/22/53/blank-t-shirts-1976334_960_720.png"
+    },
+    {
+      "id": 2,
+      "name": "Plain Black T-Shirt",
+      "price": "$12",
+      "image": "https://cdn.pixabay.com/photo/2016/10/21/22/53/isolated-t-shirt-1852114_960_720.png"
+    },
+    {
+      "id": 3,
+      "name": "Plain Gray T-Shirt",
+      "price": "$15",
+      "image": "https://cdn.pixabay.com/photo/2016/10/21/22/53/isolated-t-shirt-1852113_960_720.png"
+    }
+  ]
+  
